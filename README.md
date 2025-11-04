@@ -14,8 +14,7 @@ Manual Testing project for an Service Based website.
 ### 🔹 Summary:
 The test scope covers end-to-end validation of the Grameen Health Care Services website, including functional,                                                                        
 UI/UX, compatibility, performance, security, accessibility, and regression testing.                                                                                               
-The main objective is to ensure all user interactions, content, and navigation elements work correctly across devices and browsers,                                                     
-maintaining accuracy, responsiveness, and usability.
+The main objective is to ensure all user interactions, content, and navigation elements work correctly across devices and browsers, maintaining accuracy, responsiveness, and usability.
 
 ### 🔹 Tools Used:
 Excel 
